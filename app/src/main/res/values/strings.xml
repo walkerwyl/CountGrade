@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CountGrade</string>
+    <string name="TeamName">Team A</string>
+    <string name="button">+3 point</string>
+    <string name="button2">+2 point</string>
+    <string name="button3">+1 point</string>
+    <string name="button4">RESET</string>
+    <string name="Count">0</string>
+</resources>

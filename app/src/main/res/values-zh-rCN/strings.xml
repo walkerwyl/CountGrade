@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">记分表</string>
+    <string name="button">+3 point</string>
+    <string name="TeamName">A队</string>
+    <string name="button2">+2 point</string>
+    <string name="button3">+1 point</string>
+    <string name="button4">重置</string>
+    <string name="Count">0</string>
+</resources>
